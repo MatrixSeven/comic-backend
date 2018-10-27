@@ -1,0 +1,12 @@
+
+lib
+.python-version
+include
+pip-selfcheck.json
+pyvenv.cfg
+include
+bin
+.vscode
+__pycache__
+*/__pycache__
+*/__pycache__/*
